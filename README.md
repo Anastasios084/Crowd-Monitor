@@ -1,6 +1,6 @@
 # Crowd-Monitor
 
-This is a script written in micro python for the Raspberry pi pico W.
+This is a script written in micro python on a Raspberry pi pico W.
 
 ## Components used:
 - 1 x Raspberry Pi Pico W
